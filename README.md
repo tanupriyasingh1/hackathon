@@ -8,6 +8,8 @@ GreenStep turns invisible daily emissions into a number you can see, and then te
 
 Climate change is driven by billions of small daily decisions, but almost nobody can see the carbon cost of a commute, a lunch or a night with the air conditioning on. Without feedback, there is no learning loop. Most carbon calculators are long annual surveys that people fill in once and forget.
 
+**Live demo:** [https://hackathon-s6dv.vercel.app](https://hackathon-s6dv.vercel.app)
+
 ## The idea
 
 A 10-second daily habit tracker with a coach built in:
