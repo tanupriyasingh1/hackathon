@@ -62,31 +62,4 @@ npm run build      # production build in dist/
 node src/lib/calc.test.mjs   # unit tests for the calculation engine
 ```
 
-## Deploy (get your public project link)
-
-Pick one, all are free:
-
-- **Netlify Drop:** run `npm run build`, then drag the `dist/` folder onto https://app.netlify.com/drop
-- **Vercel:** import the GitHub repo. It auto-detects Vite.
-- **GitHub Pages:** push to GitHub, run `npm run build`, and publish `dist/` (the build uses relative paths, so any sub-path works).
-
-## Devpost submission checklist
-
-- [ ] Public project link (deploy as above)
-- [ ] Project description: copy the sections above (problem, idea, SDG alignment)
-- [ ] 3+ screenshots: ready in `screenshots/`
-- [ ] Source code: push this folder to a public GitHub repo
-- [ ] Tech list: see "Tech stack"
-- [ ] Demo video (optional, 1-5 min): see the script below
-
-### 90-second demo script
-
-1. (0:00) "Most people can't see their carbon footprint, so they can't change it. This is GreenStep, built for SDG 13."
-2. (0:10) Click **Try a sample week** and show the 7-day chart. Hover a day for the breakdown.
-3. (0:30) Show the swaps: "It found that swapping petrol-car trips for the train would save 4.7 kg this week." Click **Pledge** and show the yearly savings and tree equivalent.
-4. (0:50) Go to **Today**, log a beef meal, and watch the ring go over budget.
-5. (1:10) Show the **Learn** tab and the dark mode, mention privacy and accessibility, then close on the impact statement.
-
-## Ideas for the future
-
 Country-specific electricity grid factors, team and school challenges, and a receipt or barcode scanner for the shopping category.
