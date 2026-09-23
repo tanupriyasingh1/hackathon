@@ -4,8 +4,7 @@
 
 GreenStep turns invisible daily emissions into a number you can see, and then tells you the *one swap* that would cut your footprint the most. Log a bus ride, a beef burger or an evening with the AC on, and GreenStep shows your carbon footprint, tracks it against a daily budget, and recommends personalised swaps based on what **you** actually did this week.
 
-## Live Vercel Link: 
-hackathon-s6dv-8q3whmaru-tanu1010.vercel.app
+**Live demo:** [https://hackathon-s6dv.vercel.app](https://hackathon-s6dv.vercel.app)
 
 ## The problem
 
